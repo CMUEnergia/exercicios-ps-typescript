@@ -13,7 +13,7 @@ Olá, seja bem vindo à prova técnica do processo seletivo da CMU Energia. Aqui
 - **Evitar** de usar **bibliotecas e pacotes** fora da linguagem
 - É permitido alterar o código original para incluir prints de console, porém, favor **evitar** de enviar respostas com códigos comentados e prints desnecessários no cosole
 - É permitido e sugerido usar classes ou gerar outros arquivos na solução caso julgue necessário **(e isso será bem visto!)**
-- Não é necessário alterar o arquivo .csproj de nenhum exercício
+- Não é necessário alterar ou criar o arquivo package.json de nenhum exercício
 
 ## Como executar
 
