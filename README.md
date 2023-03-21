@@ -13,7 +13,7 @@ Olá, seja bem vindo à prova técnica do processo seletivo da CMU Energia. Aqui
 - **Evitar** de usar **bibliotecas e pacotes** fora da linguagem
 - É permitido alterar o código original para incluir prints de console, porém, favor **evitar** de enviar respostas com códigos comentados e prints desnecessários no cosole
 - É permitido e sugerido usar classes ou gerar outros arquivos na solução caso julgue necessário **(e isso será bem visto!)**
-- Não é necessário alterar o arquivo package.json de nenhum exercício
+- Não é necessário alterar ou criar o arquivo package.json de nenhum exercício
 
 ## Como executar
 
@@ -23,7 +23,8 @@ Após instalar, pode ser necessário reiniciar o computador.
 
 Instalação feita, é preciso instalar o TypeScript e seu transpilador
 ```sh
-npm install
+npm install -g typescript
+npm install -g ts-node
 ```
 
 Caso esteja utilizando Windows, pode ser necessário [ativar a execução de scripts no seu computador](https://pt.stackoverflow.com/questions/220078/o-que-significa-o-erro-execu%C3%A7%C3%A3o-de-scripts-foi-desabilitada-neste-sistema). Lembrando que é necessário rodar esse comando como administrador
